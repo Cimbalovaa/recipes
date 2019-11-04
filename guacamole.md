@@ -1,5 +1,5 @@
 # Ingredients
 # Instruction
  - lemon
--lime
+-lime YOU CANT HAVE BOTH
 - avocado
